@@ -6,7 +6,7 @@ import { useState } from "react";
 import { useSplashDone } from "@/components/ui/splash-screen";
 import { useLang } from "@/context/language";
 
-const APP_STORE_URL = "https://apps.apple.com/app/id6746959960";
+const APP_STORE_URL = "https://apps.apple.com/app/id6762143963";
 
 const content = {
   fr: {
