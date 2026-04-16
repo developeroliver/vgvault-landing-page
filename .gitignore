@@ -1,0 +1,61 @@
+# Dependencies
+
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build output
+
+/.next/
+/out/
+
+# Production build
+
+/build
+
+# Logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+
+.env*
+!.env.example
+
+# Mac / Linux / Windows
+
+.DS_Store
+Thumbs.db
+
+# Vercel
+
+.vercel
+
+# TypeScript
+
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# Misc
+
+*.pem
+
+# Testing
+
+/coverage
+
+# Optional: lock files (décommente si nécessaire)
+
+# package-lock.json
+
+# yarn.lock
+
+# pnpm-lock.yaml
